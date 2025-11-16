@@ -1,10 +1,10 @@
 # Sentiment Analysis with Hugging Face Models
 
 ### Overview
-This project is making sentiment analysis that implement hugging faces models such as "distilbert-base-uncase" and embedding using FAISS
+This project is making sentiment analysis that implement hugging faces models such as "distilbert-base-uncase" and embedding using FAISS. The Goal to see the classification from dataset which include sentiment positive, negative, and neutral
 
 ### Source Dataset
-Dataset got from Kaggle which contains social media posts.
+Dataset got from Kaggle which contains data social media posts.
 
 Source : 
 [Sentiment Analysis](https://www.kaggle.com/datasets/mdismielhossenabir/sentiment-analysis)
