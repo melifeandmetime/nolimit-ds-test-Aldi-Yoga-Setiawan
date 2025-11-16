@@ -1,7 +1,7 @@
 # Sentiment Analysis with Hugging Face Models
 
 ### Overview
-This project is making sentiment analysis that implement hugging faces models such as "distilbert-base-uncase" and embedding using FAISS. The Goal to testing the classification from dataset which include text using hugging faces model and Embedding FAISS to determine whether it is positive, negative, and neutral sentiment.
+This project is making sentiment analysis that implement hugging faces models such as "distilbert-base-uncase" and embedding using sentence transformers and FAISS. The Goal to testing the classification from dataset which include text using hugging faces model and Embedding FAISS to determine whether it is positive, negative, and neutral sentiment.
 
 ### Source Dataset
 Dataset got from Kaggle which contains data social media posts.
@@ -24,8 +24,8 @@ This require to fill username and API key your kaggle account
 3. Run Notebook
 - Open the Notebook(sentiment analysis_fixed.ipynb)
 ### Chosen Models
-1. distilbert-base-uncased
-2. all-MiniLM-L6-v2
-3. FAISS
+1. distilbert-base-uncased (for train and testing)
+2. all-MiniLM-L6-v2 (for embedding)
+3. FAISS (Semantic Search)
 ### FlowChart
 <img src="flowchartt.png" alt="flowchart" width="500">
