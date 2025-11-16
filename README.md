@@ -12,7 +12,7 @@ Source :
 ### Setup Intructions
 1. Clone The Repository
 ```bash
-git clone <your-repo-url>
+git clone <your-repository-url>
 ```
 2. Download Dataset
 ```bash
