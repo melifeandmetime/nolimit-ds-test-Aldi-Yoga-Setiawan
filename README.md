@@ -24,6 +24,8 @@ This require to fill username and API key your kaggle account
 3. Run Notebook
 - Open the Notebook(sentiment analysis_fixed.ipynb)
 ### Chosen Models
-
+1. distilbert-base-uncased
+2. all-MiniLM-L6-v2
+3. FAISS
 ### FlowChart
 <img src="flowchartt.png" alt="flowchart" width="500">
