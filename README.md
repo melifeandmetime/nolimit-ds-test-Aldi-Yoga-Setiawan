@@ -8,3 +8,10 @@ Dataset got from Kaggle which contains social media posts.
 
 Source : 
 [Sentiment Analysis](https://www.kaggle.com/datasets/mdismielhossenabir/sentiment-analysis)
+
+### Setup Intructions
+
+### Chosen Models
+
+### FlowChart
+<img src="flowchartt.png" alt="flowchart" width="500">
