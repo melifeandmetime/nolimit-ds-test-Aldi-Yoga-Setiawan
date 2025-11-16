@@ -1,0 +1,12 @@
+transformers
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+regex
+opendatasets
+torch
