@@ -12,7 +12,7 @@ Source :
 ### Setup Intructions
 1. Clone The Repository
 ```bash
-git clone "https://github.com/melifeandmetime/nolimit-ds-test-Aldi-Yoga-Setiawan.git"
+git clone https://github.com/melifeandmetime/nolimit-ds-test-Aldi-Yoga-Setiawan.git
 ```
 2. Download Dataset
 ```bash
