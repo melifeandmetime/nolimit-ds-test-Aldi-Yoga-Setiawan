@@ -16,6 +16,7 @@ git clone https://github.com/melifeandmetime/nolimit-ds-test-Aldi-Yoga-Setiawan.
 ```
 2. Download Dataset
 ```bash
+!pip install opendatasets
 import opendatasets as od
 od.download("https://www.kaggle.com/datasets/mdismielhossenabir/sentiment-analysis")
 ```
