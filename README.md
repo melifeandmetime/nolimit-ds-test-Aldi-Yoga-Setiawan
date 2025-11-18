@@ -4,7 +4,7 @@
 This project is making sentiment analysis that implement hugging face models such as "distilbert-base-uncased", embedding using sentence transformers which that "all-MiniLM-L6-v2", and FAISS for semantic search. The goal from this project to testing the classification from dataset which include text using hugging faces model and Embedding FAISS to determine whether it is positive, negative, and neutral sentiment.
 
 ### Source Dataset
-Dataset got from Kaggle which contains data social media posts. Data processed only on text and sentiment column.
+Dataset got from Kaggle which contains data social media posts. Data processed only on text and sentiment column. That dataset consists of 499 text comments and 3 sentiment label categories : positive, negative, and neutral.
 
 Source : 
 [Sentiment Analysis](https://www.kaggle.com/datasets/mdismielhossenabir/sentiment-analysis)
